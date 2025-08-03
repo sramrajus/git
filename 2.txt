@@ -1,2 +1,3 @@
 i my selt 2.txt
 this is stage line modification in git stash,,`
+this is git stash firl modificatio
